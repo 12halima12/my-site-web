@@ -1,34 +1,48 @@
-body{
-    margin: 0;
+*{
+    margin: 0%;
     padding: 0%;
 }
 .c1{
-   color: #ffffff;
+   color: #000000;
    float: left;
    font-size: 30px;
+   padding: 10px;
 } 
 ul{
     float: right;
     list-style: none;
+   
 }    
 li{
     float: left;
     padding: 10px;
-    font-size: 20px;
+    font-size: 22px;
+    padding-right: 40px;
 }  
 nav{
     height: 65px;
-    background-color: rgb(99, 44, 150);
+    background-color: rgb(236, 178, 96);
 }
 .content{
-    height: 650px;
+    height: 1050px;
     text-align: center;
    background-image: url("restaurant-nolinski-paris-5-etoiles-luxe-12-guillaume-de-laubier.jpg");
 }
 p{
    color: white;
+   margin-top: 30px ;
 }
   h2 {
-  color: rgb(198, 189, 191);
+  color: rgb(255, 249, 251);
+  font-size: 50px;
+  
   }
- 
+ .c2 {
+    padding: 50px;
+ }
+.button1{
+    margin-top: 10px ; 
+    color: black;
+   font-size: 30px;
+   background-color: rgb(234, 163, 70);
+}
